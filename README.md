@@ -24,13 +24,13 @@ API - Fetches recipes from a free recipe provider.
 
 <h1>🍽️ Demo</h1>
 
-Check out the live demo: Your Website Link Here
+Check out the live demo: [Website Link is Here](https://samiranpal2004.github.io/Recipie-WebApp/)
 
 <h1>📂 Installation & Usage</h1>
 
 Clone the repository:
 
-git clone https://github.com/samiranpal2004/recipe-web-app.git
+git clone [https://github.com/samiranpal2004/recipe-web-app.git](https://github.com/samiranpal2004/Recipie-WebApp.git)
 
 Navigate to the project directory:
 
